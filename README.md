@@ -1,0 +1,1 @@
+Simple Burp extension that extracts plaintext from returned PDFs and concatenates within a custom message viewer. If a compressed archive (ZIP) is returned within a response, it will extract plaintext from PDFs contained within. Disclaimer: heavy LLM use.
